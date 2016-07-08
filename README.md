@@ -1,2 +1,2 @@
 # scrumble
-PHP + jQuery based scrum manager
+A PHP(CodeIgniter)/jQuery based scrum manager
